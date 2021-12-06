@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JavierGonzalezAlvarez
 - 👀 I’m interested in different programming languages. I love Rust, C#, Typescript, Js, Java and Python.
-- 🌱 I’m currently learning Elixir.
+- 🌱 I’m currently learning AssemblyScript and Elixir.
 - 💞️ I’m looking to collaborate on projects based on open-source
 - 📫 You can reach me out at my email: javiergonzalezalvar@gmail.com
 
